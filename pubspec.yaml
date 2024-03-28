@@ -28,6 +28,9 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
+  path_provider: ^2.1.2
+  flutter_barcode_scanner: ^2.0.0
+  qr_flutter: ^4.1.0
   flutter:
     sdk: flutter
 
